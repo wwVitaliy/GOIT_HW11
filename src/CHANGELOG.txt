@@ -1,0 +1,10 @@
+--------Corrections #1
+Task 1.
+1. Змінив вхідни список
+2. Змінив метод getOddPositionsFromList();
+
+Task 3.
+1. Повністю переробив програму через Stream'и
+
+Task 5.
+1. Переробив метод zip через Iterator
